@@ -50,10 +50,17 @@ Abaixo está a organização dos arquivos e pastas do projeto:
    - Inserção de títulos e legendas explicativas.  
 ---
 
-## 📈 Visualização do Dashboard
+## 📊 Visualização do Dashboard
 
 Aqui está uma prévia do resultado final:
-![Preview do Dashboard](imagens/preview_dashboard.png)
+
+<p align="center">
+  <img src="images/AssetsExcel.png" width="600">
+  <br>
+  <img src="images/Cálculos.png" width="600">
+  <br>
+  <img src="images/DashboardXboxGamePass.png" width="600">
+</p>
 
 ---
 
