@@ -18,14 +18,16 @@ O dashboard foi criado a partir de uma base de dados bruta, passando por etapas 
 ## 🧩 Estrutura do Projeto
 
 Abaixo está a organização dos arquivos e pastas do projeto:
-
-📁 Dashboard-de-vendas-Xbox-Excel/
-├── 📄 README.md → Documentação do projeto
-├── 📊 Dashboard_Vendas_Xbox.xlsx → Arquivo principal do dashboard em Excel
-├── 📁 dados/ → Contém a base de dados bruta e/ou tratada
-│ └── vendas_xbox_raw.csv
-├── 📁 imagens/ → Capturas de tela e visualizações do dashboard
-│ └── preview_dashboard.png
+Dashboard-de-vendas-Xbox-Excel/
+│
+├── README.md                     
+├── Dashboard_Vendas_Xbox.xlsx     
+│
+├── images/                        
+│   ├── .gitkeep
+│   ├── AssetsExcel.png
+│   ├── Cálculos.png
+│   ├── DashboardXboxGamePass.png
 
 ---
 
@@ -57,9 +59,11 @@ Aqui está uma prévia do resultado final:
 <p align="center">
   <img src="images/AssetsExcel.png" width="600">
   <br>
+   
   <img src="images/Cálculos.png" width="600">
   <br>
-  <img src="images/DashboardXboxGamePass.png" width="600">
+  
+  <img src="images/DashboardXboXGamePass.png" width="600">
 </p>
 
 ---
